@@ -1,4 +1,4 @@
-python==3.11
+python==3.11.7
 streamlit
 lxml==4.6.2
 numpy
