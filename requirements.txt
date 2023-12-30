@@ -1,3 +1,5 @@
+python==3.11
+streamlit
 lxml==4.6.2
 numpy
 pandas
@@ -5,5 +7,4 @@ matplotlib
 yfinance
 scikit-learn
 tensorflow
-streamlit
 keras
