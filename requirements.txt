@@ -1,5 +1,5 @@
 python==3.11.7
-streamlit
+streamlit==1.29.0
 lxml==4.6.2
 numpy
 pandas
