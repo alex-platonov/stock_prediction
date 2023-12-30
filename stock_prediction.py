@@ -4,7 +4,7 @@ import yfinance as yf
 from tensorflow.keras.models import load_model
 import streamlit as st
 import matplotlib.pyplot as plt
-import scikit_learn as sklearn
+import sklearn as sk
 
 model = load_model('Stock_Predictions_Model.keras')
 
