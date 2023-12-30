@@ -5,6 +5,7 @@ from tensorflow.keras.models import load_model
 import streamlit as st
 import matplotlib.pyplot as plt
 import scikit_learn as sklearn
+
 model = load_model('Stock_Predictions_Model.keras')
 
 st.header('Stock Market Predictor')
